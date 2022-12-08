@@ -46,5 +46,5 @@ CREATE TABLE IF NOT EXISTS compilation_traks (
 );
 
 UPDATE compilation
-SET "data" = 2019
-WHERE compilation_id = 2;
+   SET "data" = 2019
+ WHERE compilation_id = 2;
